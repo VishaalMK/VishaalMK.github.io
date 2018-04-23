@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Vishaal Munusamy Kabilan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/author_img.JPG" path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Independent Researcher"
   location         : "Manchester, Connecticut"
   email            :
