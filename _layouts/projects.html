@@ -22,7 +22,10 @@ layout: archive
         <h6>
             <span class="post-meta">{{ proj.authors }}</span>
             <span class="post-meta">{{ proj.year }}, {{ proj.venue }}</span>
+            {% if proj.code %}
             <br>
+            <span class="post-meta"><a class="post-link" href="{{ proj.code }}">Code</span>
+            {% endif %}
         </h6>
         {{ proj.description }}
 
