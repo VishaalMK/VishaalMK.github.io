@@ -14,5 +14,5 @@
   year: 2017
   venue: WPI
   code: https://github.com/VishaalMK/random_filters
-  description: "Testing effects of random layers in AlexNet"
+  description: "A number of convolutional neural network architectures are trained on the MNIST dataset with and without multiple randomly initialized layers. A comparison of their performances is then reported and analysed."
 
