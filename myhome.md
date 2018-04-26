@@ -1,10 +1,10 @@
 ---
 layout: home
-title: "My home"
+title: "Welcome"
 permalink: /
 ---
 
-# Welcome
+
 
 The name is Vishaal Munusamy Kabilan. I'm currently an independent researcher looking for intersting ways to spend my life. End of the day, it is only through giving that I feel the most sated. So by being shamelessly selfish I'd like to carry out more of it.
 
