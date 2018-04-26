@@ -1,0 +1,16 @@
+# List of and information about my projects
+
+
+- title: "Leveraging Generative Models to Purify Adversarial Examples"
+  authors: Vishaal Munusamy Kabilan
+  url: https://docs.google.com/document/d/1do35A7BrVKh9_z1jmwa8ijReSuO4hMGLGUMeshR38lY/edit?usp=sharing
+  year: "Fall 2017"
+  venue: Dr. Anh Nguyen Lab 
+  description: "Developing a model-agnostic framework to purify adversarial examples"
+- title: "Effects of Random Weights in Deep Architectures"
+  authors: Vishaal Munusamy Kabilan
+  url: https://docs.google.com/document/d/1aB84TNnqIferAaw2JsLEp2fTc1ilPJdweg3Q_5Jmr0U/edit?usp=sharing
+  year: 2017
+  venue: WPI
+  description: "Testing effects of random layers in AlexNet"
+
