@@ -20,8 +20,8 @@ layout: archive
           <a {% if proj.url != empty %}href="{{ proj.url  }}" target="_blank"{% endif %}{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ proj.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
         </h2>
         <h6>
-            <span {{ proj.authors }}</span>
-            <span {{ proj.year }}, {{ proj.venue }}</span>
+            <span>{{ proj.authors }}</span>
+            <span>{{ proj.year }}, {{ proj.venue }}</span>
             {% if proj.code %}
             <br>
             <span><a class="post-link" href="{{ proj.code }}" target="_blank">Code</a></span>
