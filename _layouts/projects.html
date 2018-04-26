@@ -17,7 +17,7 @@ layout: archive
 
       <li style="margin-bottom:7%">
         <h2>
-          <a class="post-link" {% if proj.url != empty %}href="{{ proj.url  }}"{% endif %}{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ proj.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
+          <a class="post-link" {% if proj.url != empty %}href="{{ proj.url  }}" target="_blank"{% endif %}{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ proj.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
         </h2>
         <h6>
             <span class="post-meta">{{ proj.authors }}</span>
