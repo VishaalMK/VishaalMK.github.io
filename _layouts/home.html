@@ -2,7 +2,16 @@
 layout: archive
 ---
 
-<! --
+<div class="home">
+
+  {{ content }}
+
+  {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
+
+</div>
+
+
+<!--
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
@@ -12,4 +21,3 @@ layout: archive
 {% include paginator.html %}
 -->
 
-<h3 class="archiv_subtitle"> "Hello World" </h3>
