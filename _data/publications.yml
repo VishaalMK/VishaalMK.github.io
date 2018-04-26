@@ -2,7 +2,7 @@
 
 - title: "VectorDefense: Vectorization as a Defense to Adversarial Examples"
   authors: Vishaal Munusamy Kabilan, Brandon L. Morris, Anh Nguyen
-  description: Training deep neural networks on images represented as grids of pixels has brought to light an interesting phenomenon known as adversarial examples. Inspired by how humans reconstruct abstract concepts, we attempt to codify the input bitmap image into a set of compact, interpretable elements to avoid beign fooled by the adversarial structures.
+  description: Training deep neural networks on images represented as grids of pixels has brought to light an interesting phenomenon known as adversarial examples. Inspired by how humans reconstruct abstract concepts, we attempt to codify the input bitmap image into a set of compact, interpretable elements to avoid being fooled by the adversarial structures.
   url: https://arxiv.org/abs/1804.08529
   year: 2018
   venue: Preprint
