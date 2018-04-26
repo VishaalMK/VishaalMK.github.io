@@ -16,7 +16,7 @@ layout: archive
       {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
 
       <li style="margin-bottom:7%">
-        <h2>
+        <h6>
           {% if pub.url %}
             <a class="post-link"
               href="{{ pub.url  }}"
@@ -25,7 +25,7 @@ layout: archive
             {% endif %}>
             {% endif %}
             {{ pub.title | escape }}{% if post.external-url %} &rarr;{% endif %}{% if pub.url %}</a>{% endif %}
-        </h2>
+        </h6>
         <span class="post-meta">{{ pub.authors }}</span>
         <span class="post-meta">{{ pub.year }}, {{ pub.venue }}</span>
         {% if pub.arxiv %}
