@@ -2,11 +2,11 @@
 main:
   # - title: "Blog"
   #  /archive/
-  #- title: "Projects"
-  #  /projects/
-  #- title: "Papers"
-  #  /papers/
-  #- title: "GitHub"
-  #  url: https://github.com/VishaalMK
+  - title: "Projects"
+    url: /projects/
+  - title: "Papers"
+    url: /papers/
+  - title: "GitHub"
+    url: https://github.com/VishaalMK
   #- title: "Resume"
   #  url: /sitemap/
