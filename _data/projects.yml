@@ -4,14 +4,14 @@
 - title: "Leveraging Generative Models to Purify Adversarial Examples"
   authors: Vishaal Munusamy Kabilan
   url: https://docs.google.com/document/d/1do35A7BrVKh9_z1jmwa8ijReSuO4hMGLGUMeshR38lY/edit?usp=sharing
-  year: "Fall 2017"
+  year: "| Fall 2017"
   venue: Dr. Anh Nguyen Lab
   code: https://github.com/VishaalMK
   description: "Developing a model-agnostic framework to purify adversarial examples"
 - title: "Effects of Random Weights in Deep Architectures"
   authors: Vishaal Munusamy Kabilan
   url: https://docs.google.com/document/d/1aB84TNnqIferAaw2JsLEp2fTc1ilPJdweg3Q_5Jmr0U/edit?usp=sharing
-  year: 2017
+  year: "| Summer 2017"
   venue: WPI
   code: https://github.com/VishaalMK/random_filters
   description: "A number of convolutional neural network architectures are trained on the MNIST dataset with and without multiple randomly initialized layers. A comparison of their performances is then reported and analysed."
