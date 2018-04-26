@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1>My projects</h1>
+
+  {{ content }}
+
+  {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
+
+  <ul class="projects">
+    {% for proj in site.data.projects %}
+      {% capture post_lang %}{{ proj.lang | default: site_lang }}{% endcapture %}
+      {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
+
+      <li style="margin-bottom:7%">
+        <h2>
+          <a class="post-link" {% if proj.url != empty %}href="{{ proj.url  }}"{% endif %}{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ proj.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
+        </h2>
+        <span class="post-meta">{{ proj.authors }}</span>
+        <span class="post-meta">{{ proj.year }}, {{ proj.venue }}</span>
+        <br>
+        {{ proj.description }}
+
+      </li>
+    {% endfor %}
+  </ul>
+
+
+</div>
+
