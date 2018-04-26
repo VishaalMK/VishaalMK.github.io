@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 permalink: /
 ---
-<img style="float:right; width:30%; height:50%; margin-right:10%; border-radius:45%"
+<img style="float:right; width:30%; height:50%; margin-left:10%; border-radius:45%"
 src="/assets/images/author_img.JPG">
 
 The name is Vishaal Munusamy Kabilan. I'm currently an independent researcher looking for intersting ways to spend my life. End of the day, it is only through giving that I feel the most sated. So by being shamelessly selfish I'd like to carry out more of it.
