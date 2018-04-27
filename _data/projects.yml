@@ -3,10 +3,10 @@
 
 - title: "Harnessing Generative Models to Purify Adversarial Examples on ImageNet"
   authors: Vishaal Munusamy Kabilan
-  url: https://docs.google.com/document/d/1do35A7BrVKh9_z1jmwa8ijReSuO4hMGLGUMeshR38lY/edit?usp=sharing
+  url: https://vishaalmk.github.io/gen_AX/
   year: "| Fall 2017"
   venue: Dr. Anh Nguyen Lab
-  code: https://github.com/VishaalMK
+  code: https://github.com/VishaalMK/gen_AX
   description: "Developing a model-agnostic framework to purify adversarial examples"
 - title: "Effects of Random Weights in Deep Architectures"
   authors: Vishaal Munusamy Kabilan
