@@ -10,7 +10,7 @@
   description: "Towards a model- and attack-agnostic adversarial defense framework. The performances of multiple state-of-the-art generative models are compared."
 - title: "Effects of Random Weights in Deep Architectures"
   authors: Vishaal Munusamy Kabilan
-  url: https://docs.google.com/document/d/1aB84TNnqIferAaw2JsLEp2fTc1ilPJdweg3Q_5Jmr0U/edit?usp=sharing
+  url: 
   year: "| Summer 2017"
   venue: WPI
   code: https://github.com/VishaalMK/random_filters
