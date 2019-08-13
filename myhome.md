@@ -6,7 +6,7 @@ permalink: /
 <img style="float:right; width:30%; height:50%; margin-left:10%; border-radius:45%"
 src="/assets/images/author_img.JPG">
 
-I'm a strategic consultant working in the Research and Analytics division of IBM. I'm strongly driven by the value that I can create for my clients by leveraging my expertise in Machine Learning.
+I'm a strategy consultant working in the Research and Analytics division of IBM. I'm strongly driven by the value that I can create for my clients by leveraging my expertise in Machine Learning.
 
 Previously, I was a research associate working on [adversarial examples](https://blog.openai.com/adversarial-example-research/), at the intersection of Computer Vision and AI Safety, in [Dr. Anh Nguyen's](http://anhnguyen.me/research/) lab at Auburn University. I graduated from Worcester Polytechnic Institute (WPI) in 2017 with a Master's degree in Robotics Engineering.
 
